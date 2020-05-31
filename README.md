@@ -1,1 +1,1 @@
-# GenerativeModelling
+# GenerativeModeling
