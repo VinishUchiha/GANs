@@ -7,3 +7,7 @@ notebook, you will discover how to develop a conditional generative adversarial 
 targeted generation of items of clothing
 
 Conditional Generative Adversarial Nets Paper : https://arxiv.org/abs/1411.1784
+
+### Conditional Generator and a Conditional Discriminator in a CGAN
+
+![image](https://github.com/VinishUchiha/Generative-Modeling/blob/master/CGAN/cgan.png)
